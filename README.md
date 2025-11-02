@@ -69,11 +69,6 @@ Struktur utama terdiri dari lima kelas utama:
 
 ## Dokumentasi
 
-
-https://github.com/user-attachments/assets/ebbf9b5b-bae2-4017-a1a8-e65fe2a3af44
-
-
-
 ### Tampilan Menu
 
 <img width="347" height="632" alt="1  Tampilan awal" src="https://github.com/user-attachments/assets/7a39b2a3-8bd3-413e-b5d3-3e96946f106c" />
@@ -89,4 +84,7 @@ https://github.com/user-attachments/assets/ebbf9b5b-bae2-4017-a1a8-e65fe2a3af44
 <img width="347" height="632" alt="1  Tampilan awal" src="https://github.com/user-attachments/assets/b7836010-81be-48e1-a39b-6d1ea27107df" />
 
 
+### Video GamePlay
+
+https://github.com/user-attachments/assets/ebbf9b5b-bae2-4017-a1a8-e65fe2a3af44
 
