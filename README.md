@@ -76,7 +76,8 @@ Struktur utama terdiri dari lima kelas utama:
 
 ### Tampilan Game 
 
-<img width="347" height="632" alt="1  Tampilan awal" src="https://github.com/user-attachments/assets/e4c4b042-4bd3-4444-bd60-f202450dca1d" />
+<img width="361" height="672" alt="2  Tampilan sebelum memulai game" src="https://github.com/user-attachments/assets/2b0df14b-12ed-4dd4-9be8-04468db57ae7" />
+
 
 
 ### Tampilan GameOver
